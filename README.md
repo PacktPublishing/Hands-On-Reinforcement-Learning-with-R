@@ -4,7 +4,7 @@
 
 This is the code repository for [Hands-On Reinforcement Learning with R](https://www.packtpub.com/data/hands-on-reinforcement-learning-with-r), published by Packt.
 
-**Get up to speed with building self-learning systems using R 3.x	**
+**Get up to speed with building self-learning systems using R 3.x**
 
 ## What is this book about?
 Reinforcement Learning is an exciting part of machine learning. It has uses in technology from autonomous cars to game playing, and creates algorithms that can adapt to environmental changes. This book helps to understand how to implement RL with R, and explores interesting practical examples, such as using tabular Q-learning to control robots.
@@ -54,7 +54,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 * Mastering Machine Learning with R, Third Edition [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/mastering-machine-learning-r-third-edition) [[Amazon]](https://www.amazon.com/Mastering-Machine-Learning-techniques-applications/dp/1789618002)
 
 ## Get to Know the Author
-** Giuseppe Ciaburro ** holds a PhD in environmental technical physics, along with two master's degrees. His research was focused on machine learning applications in the study of urban sound environments. He works at the Built Environment Control Laboratory at the Università degli Studi della Campania Luigi Vanvitelli, Italy. He has over 18 years' professional experience in programming (Python, R, and MATLAB), first in the field of combustion, and then in acoustics and noise control. He has several publications to his credit.	
+**Giuseppe Ciaburro** holds a PhD in environmental technical physics, along with two master's degrees. His research was focused on machine learning applications in the study of urban sound environments. He works at the Built Environment Control Laboratory at the Università degli Studi della Campania Luigi Vanvitelli, Italy. He has over 18 years' professional experience in programming (Python, R, and MATLAB), first in the field of combustion, and then in acoustics and noise control. He has several publications to his credit.	
 
 
 
